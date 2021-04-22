@@ -1,2 +1,2 @@
 # personal-website-DESIGN
-My first ever sketch of a personal website. Created with Adobe Photoshop
+My first ever prototype of a scroll-down personal website. Created with Adobe Photoshop
